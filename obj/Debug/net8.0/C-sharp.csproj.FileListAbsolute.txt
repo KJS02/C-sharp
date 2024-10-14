@@ -1,0 +1,5 @@
+c:\Users\rkdwn\.vscode\Git\C-sharp\obj\Debug\net8.0\C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rkdwn\.vscode\Git\C-sharp\obj\Debug\net8.0\C-sharp.AssemblyInfoInputs.cache
+c:\Users\rkdwn\.vscode\Git\C-sharp\obj\Debug\net8.0\C-sharp.AssemblyInfo.cs
+c:\Users\rkdwn\.vscode\Git\C-sharp\obj\Debug\net8.0\C-sharp.csproj.CoreCompileInputs.cache
+c:\Users\rkdwn\.vscode\Git\C-sharp\obj\Debug\net8.0\C-sharp.sourcelink.json
