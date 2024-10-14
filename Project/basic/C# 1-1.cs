@@ -9,7 +9,7 @@ namespace Hello_World
             Console.WriteLine("WriteLine는");
             Console.WriteLine("한 문장으로 출력");
             Console.Write("Write는");
-            Console.Write("연결되서 출력");
+            Console.Write("이어져서 출력");
         }
     }
 }
